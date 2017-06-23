@@ -1,2 +1,3 @@
 # hello-world
-the begianing of the jounry
+the begining of the end
+i am totally new to all of this
